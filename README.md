@@ -234,7 +234,7 @@ Python-based data pipeline focusing on predictive modeling and model evaluation 
 
 ### 🗄️ Database & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=sql,mongodb,git,github" alt="Database & Tools" />
 
 <br><br>
 
@@ -269,12 +269,6 @@ Python-based data pipeline focusing on predictive modeling and model evaluation 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kartikluhar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikluhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF" height="180"/>
-
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikluhar&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" width="70%"/>
 
 </div>
@@ -287,13 +281,6 @@ Python-based data pipeline focusing on predictive modeling and model evaluation 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kartikluhar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>
-
-</div>
 
 ---
 
