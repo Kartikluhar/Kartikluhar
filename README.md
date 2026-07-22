@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Luhar%20Kartik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Luhar%20Kartik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20AI-ML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
