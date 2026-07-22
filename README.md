@@ -78,7 +78,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -210,7 +210,7 @@ Python-based data pipeline focusing on predictive modeling and model evaluation 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 🛠️ Core Technologies
+## 🛠️ Core Technologies
 
 <div align="center">
 
@@ -265,7 +265,7 @@ Python-based data pipeline focusing on predictive modeling and model evaluation 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -287,7 +287,7 @@ Python-based data pipeline focusing on predictive modeling and model evaluation 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -303,11 +303,11 @@ Python-based data pipeline focusing on predictive modeling and model evaluation 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kartikluhar/Kartikluhar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikluhar&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
