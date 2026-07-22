@@ -61,7 +61,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/coding.gif" alt="Coding Animation"/>
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 
 * I am a **Software Engineer** with experience in developing full-stack web applications, data-driven solutions, and ML-based prediction systems.
 * Currently, I am pursuing my **Bachelor of Technology in Computer Engineering at LJ University**.
